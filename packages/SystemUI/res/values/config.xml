@@ -342,5 +342,9 @@
 
     <!-- Show 4GLTE for LTE -->
     <bool name="show_4glte_icon_for_lte">false</bool>
+
+    <!-- When true, show charging animation -->
+    <bool name="config_show_battery_charging_anim">true</bool>
+
 </resources>
 
